@@ -1,0 +1,25 @@
+{
+    "project_info": {
+        "project_number": "1003457094434",
+        "project_id": "chat-app-4af0f",
+        "storage_bucket": "chat-app-4af0f.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:1003457094434:android:2fe9bc494e2cc501463b7b",
+            "android_client_info": {
+                "package_name": "com.farsi.chatapp"
+            }
+        },
+        "oauth_client": [],
+        "api_key": [{
+            "current_key": "AIzaSyDozDndQq0Im8CjYXJJSITDMCS2OFRCkJ8"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": []
+            }
+        }
+    }],
+    "configuration_version": "1"
+}

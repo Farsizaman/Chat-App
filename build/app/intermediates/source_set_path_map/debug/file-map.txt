@@ -1,0 +1,23 @@
+com.farsi.chatapp-jetified-annotation-experimental-1.1.0-0 C:\Users\User\.gradle\caches\transforms-3\02315cc9f75263553d2042718fc375ee\transformed\jetified-annotation-experimental-1.1.0\res
+com.farsi.chatapp-jetified-window-1.0.0-beta04-1 C:\Users\User\.gradle\caches\transforms-3\076eb9235982ee06112d76594ea8585f\transformed\jetified-window-1.0.0-beta04\res
+com.farsi.chatapp-jetified-firebase-common-20.4.2-2 C:\Users\User\.gradle\caches\transforms-3\29429379be0edfde063e43fae29f4d1b\transformed\jetified-firebase-common-20.4.2\res
+com.farsi.chatapp-jetified-play-services-basement-18.3.0-3 C:\Users\User\.gradle\caches\transforms-3\2971e8222b6d8953a900638ba0d233ca\transformed\jetified-play-services-basement-18.3.0\res
+com.farsi.chatapp-browser-1.4.0-4 C:\Users\User\.gradle\caches\transforms-3\3b15f093a1d4ccfedac46d94f54273e7\transformed\browser-1.4.0\res
+com.farsi.chatapp-jetified-window-java-1.0.0-beta04-5 C:\Users\User\.gradle\caches\transforms-3\99750bb863b6fe460a7b5da8686e778d\transformed\jetified-window-java-1.0.0-beta04\res
+com.farsi.chatapp-core-1.6.0-6 C:\Users\User\.gradle\caches\transforms-3\d08c73bfb05384f2e52578171dbd141e\transformed\core-1.6.0\res
+com.farsi.chatapp-jetified-play-services-base-18.1.0-7 C:\Users\User\.gradle\caches\transforms-3\e0a8793a7a85d6e071b7a743c9adf075\transformed\jetified-play-services-base-18.1.0\res
+com.farsi.chatapp-debug-8 D:\Chat App\chat-application\android\app\src\debug\res
+com.farsi.chatapp-main-9 D:\Chat App\chat-application\android\app\src\main\res
+com.farsi.chatapp-google-services-10 D:\Chat App\chat-application\build\app\generated\res\google-services\debug
+com.farsi.chatapp-pngs-11 D:\Chat App\chat-application\build\app\generated\res\pngs\debug
+com.farsi.chatapp-resValues-12 D:\Chat App\chat-application\build\app\generated\res\resValues\debug
+com.farsi.chatapp-rs-13 D:\Chat App\chat-application\build\app\generated\res\rs\debug
+com.farsi.chatapp-mergeDebugResources-14 D:\Chat App\chat-application\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.farsi.chatapp-mergeDebugResources-15 D:\Chat App\chat-application\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.farsi.chatapp-merged_res-16 D:\Chat App\chat-application\build\app\intermediates\merged_res\debug
+com.farsi.chatapp-packaged_res-17 D:\Chat App\chat-application\build\cloud_firestore\intermediates\packaged_res\debug
+com.farsi.chatapp-packaged_res-18 D:\Chat App\chat-application\build\firebase_app_check\intermediates\packaged_res\debug
+com.farsi.chatapp-packaged_res-19 D:\Chat App\chat-application\build\firebase_auth\intermediates\packaged_res\debug
+com.farsi.chatapp-packaged_res-20 D:\Chat App\chat-application\build\firebase_core\intermediates\packaged_res\debug
+com.farsi.chatapp-packaged_res-21 D:\Chat App\chat-application\build\firebase_storage\intermediates\packaged_res\debug
+com.farsi.chatapp-packaged_res-22 D:\Chat App\chat-application\build\path_provider_android\intermediates\packaged_res\debug
